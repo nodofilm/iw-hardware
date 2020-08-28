@@ -22,4 +22,4 @@ Connector Parts
 | Molex | 105325-1004 | Retainer           |
 | Molex | 105300-1200 | Pins               |
 
-![RX Pin Out](https://raw.githubusercontent.com/nodofilm/iw-hardware/master/Receiver%20Molex%20Pin%20Out.png)
+![RX Pin Out](https://raw.githubusercontent.com/nodofilm/iw-hardware/master/Receiver%20Molex%20Pin%20Out_.png)
