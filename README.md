@@ -8,9 +8,11 @@ The Receiver utilizes a Molex connector for UART output.
 | Pin | Function | Notes       |
 |-----|----------|-------------|
 | 1   | UART TX  | 3.3V Logic  |
-| 2   | UART RX  | 5V Tolerant |
+| 2   | UART RX*  | 5V Tolerant |
 | 3   | VIN      | 5-15V       |
 | 4   | GND      |             |
+
+**The RX Connection is optional. The API can transmit wheel data in the blind.*
 
 Connector Parts
 
