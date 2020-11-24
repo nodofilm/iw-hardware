@@ -7,8 +7,8 @@ The Receiver utilizes a Molex connector for UART output.
 
 | Pin | Function | Notes       |
 |-----|----------|-------------|
-| 1   | UART TX  | 3.3V Logic  |
-| 2   | UART RX*  | 5V Tolerant |
+| 1   | UART TX  | 5V Logic Level, early models are 3.3V Logic  |
+| 2   | UART RX* | 5V Tolerant |
 | 3   | VIN      | 5-15V       |
 | 4   | GND      |             |
 
